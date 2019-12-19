@@ -2,5 +2,6 @@ lion yellow
 tiger
 leopard
 turtle
+sea sponge
 flamingo
 unicorn
