@@ -2,4 +2,5 @@ lion yellow
 tiger
 leopard
 turtle
+flamingo
 unicorn
